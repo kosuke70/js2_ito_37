@@ -18,6 +18,8 @@
 
 [【jQuery入門】fadeIn()でフェードイン・アウトを実現する方法！](https://www.sejuku.net/blog/57618)
 
+[血圧と体重の LocalStorage記録とグラフ (Ver.17)](http://www2.ttn.ne.jp/~uejmhrkz/script/ketsu/k17.html)
+
 その他多数。
 
 
