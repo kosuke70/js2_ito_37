@@ -6,7 +6,7 @@
 
 参照したサイト：
 
-[JavaScriptで現在の日付、時刻を取得する](https://www.ipentec.com/document/javascript-get-current-datetime#:~:text=%E3%81%AB%E9%96%A2%E3%81%99%E3%82%8B%E6%B3%A8%E6%84%8F%E4%BA%8B%E9%A0%85-,%E6%A6%82%E8%A6%81,%E8%A6%81%E7%B4%A0%E3%82%92%E5%8F%96%E5%BE%97%E3%81%A7%E3%81%8D%E3%81%BE%E3%81%99%E3%80%82)
+[JavaScriptで現在の日付、時刻を取得する](https://www.ipentec.com/document/javascript-get-current-datetime)
 
 [localStorageに複数のテキストを保存、取得したいです](https://teratail.com/questions/219603)
 
