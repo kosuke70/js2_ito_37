@@ -22,4 +22,8 @@
 
 その他多数。
 
+以下、今後の作業で参照する予定のサイト：
+
+[Chart.jsでグラフを描画してみた](https://qiita.com/Haruka-Ogawa/items/59facd24f2a8bdb6d369)
+
 
