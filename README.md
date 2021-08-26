@@ -28,6 +28,8 @@
 
 以下、今後の作業で参照する予定のサイト：
 
+[保存された時刻と現在の時刻のlocalstorage JavaScriptを計算する](https://www.fixes.pub/program/103841.html)
+
 [Chart.jsでグラフを描画してみた](https://qiita.com/Haruka-Ogawa/items/59facd24f2a8bdb6d369)
 
 
